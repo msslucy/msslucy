@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ayşenur Çeliker
+- 👀 I’m interested in coding and read book
+- 🌱 I’m currently learning python
+- 📫 How to reach me with email
